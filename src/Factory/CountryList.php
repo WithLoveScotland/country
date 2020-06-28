@@ -435,6 +435,13 @@ class CountryList
                 'numcode' => 222,
                 'flag' => 'El-Salvador-Flag.png',
             ],
+            'ENG' => [
+                'id' => 'ENG',
+                'iso' => 'ENG',
+                'name' => 'England',
+                'numcode' => 997,
+                'flag' => 'England-Flag.png',
+            ],
             'GQ' => [
                 'id' => 'GNQ',
                 'iso' => 'GQ',
@@ -1296,6 +1303,13 @@ class CountryList
                 'numcode' => 682,
                 'flag' => 'Saudi-Arabia-Flag.png',
             ],
+            'ALBA' => [
+                'id' => 'ALBA',
+                'iso' => 'ALBA',
+                'name' => 'Scotland',
+                'numcode' => 999,
+                'flag' => 'Scotland-Flag.png',
+            ],
             'SN' => [
                 'id' => 'SEN',
                 'iso' => 'SN',
@@ -1555,34 +1569,6 @@ class CountryList
                 'numcode' => 784,
                 'flag' => 'United-Arab-Emirates-Flag.png',
             ],
-//            'GB' => [
-//                'id' => 'GBR',
-//                'iso' => 'GB',
-//                'name' => 'United Kingdom',
-//                'numcode' => 826,
-//                'flag' => 'United-Kingdom-Flag.png',
-//            ],
-            'ALBA' => [
-                'id' => 'ALBA',
-                'iso' => 'ALBA',
-                'name' => 'Scotland',
-                'numcode' => 999,
-                'flag' => 'Scotland-Flag.png',
-            ],
-            'CYMRU' => [
-                'id' => 'CYMRU',
-                'iso' => 'CYMRU',
-                'name' => 'Wales',
-                'numcode' => 998,
-                'flag' => 'Wales-Flag.png',
-            ],
-            'ENG' => [
-                'id' => 'ENG',
-                'iso' => 'ENG',
-                'name' => 'England',
-                'numcode' => 997,
-                'flag' => 'England-Flag.png',
-            ],
             'US' => [
                 'id' => 'USA',
                 'iso' => 'US',
@@ -1645,6 +1631,13 @@ class CountryList
                 'name' => 'Virgin Islands, U.s.',
                 'numcode' => 850,
                 'flag' => 'Virgin-Islands-US-Flag.png',
+            ],
+            'CYMRU' => [
+                'id' => 'CYMRU',
+                'iso' => 'CYMRU',
+                'name' => 'Wales',
+                'numcode' => 998,
+                'flag' => 'Wales-Flag.png',
             ],
             'WF' => [
                 'id' => 'WLF',
