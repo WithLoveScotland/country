@@ -5,10 +5,10 @@
  * Time: 17:32
  */
 
-namespace Del\Helper;
+namespace WithLoveScotland\Helper;
 
 use Del\Image;
-use Del\Entity\Country;
+use WithLoveScotland\Entity\Country;
 
 class Flag
 {

@@ -1,11 +1,15 @@
 {
-    "name": "delboy1978uk/country",
+    "name": "withlovescotland/country",
     "description": "A PHP library of countries and flags.",
     "license": "MIT",
     "authors": [
         {
             "name": "Derek Stephen McLean",
             "email": "delboy1978uk@gmail.com"
+        },
+        {
+            "name": "With Love, Scotland",
+            "email": "withlovescotland@protonmail.com"
         }
     ],
     "require": {

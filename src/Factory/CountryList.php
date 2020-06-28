@@ -1,9 +1,9 @@
 <?php
 
-namespace Del\Factory;
+namespace WithLoveScotland\Factory;
 
-use Del\Entity\Country;
-use Del\Repository\CountryRepository;
+use WithLoveScotland\Entity\Country;
+use WithLoveScotland\Repository\CountryRepository;
 
 class CountryList
 {

@@ -1,10 +1,10 @@
 <?php
 
-namespace Del\Repository;
+namespace WithLoveScotland\Repository;
 
-use Del\Exception\CountryException;
-use Del\Entity\Country;
-use Del\Factory\CountryList;
+use WithLoveScotland\Exception\CountryException;
+use WithLoveScotland\Entity\Country;
+use WithLoveScotland\Factory\CountryList;
 
 class CountryRepository
 {
