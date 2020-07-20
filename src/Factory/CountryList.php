@@ -274,6 +274,13 @@ class CountryList
                 'numcode' => 132,
                 'flag' => 'Cape-Verde-Flag.png',
             ],
+            'CAT' => [
+                'id' => 'CAT',
+                'iso' => 'CAT',
+                'name' => 'Catalonia',
+                'numcode' => 996,
+                'flag' => 'Spain-Flag.png',
+            ],
             'KY' => [
                 'id' => 'CYM',
                 'iso' => 'KY',
