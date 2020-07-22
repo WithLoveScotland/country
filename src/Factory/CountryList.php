@@ -29,6 +29,13 @@ class CountryList
                 'numcode' => 8,
                 'flag' => 'Albania-Flag.png',
             ],
+            'ALDRN' => [
+                'id' => 'ALDRN',
+                'iso' => 'ALDRN',
+                'name' => 'Alderney',
+                'numcode' => 993,
+                'flag' => 'United-Kingdom-Flag.png',
+            ],
             'DZ' => [
                 'id' => 'DZA',
                 'iso' => 'DZ',
@@ -617,6 +624,13 @@ class CountryList
                 'numcode' => 320,
                 'flag' => 'Guatemala-Flag.png',
             ],
+            'GUER' => [
+                'id' => 'GUER',
+                'iso' => 'GUER',
+                'name' => 'Guernsey',
+                'numcode' => 994,
+                'flag' => 'United-Kingdom-Flag.png',
+            ],
             'GN' => [
                 'id' => 'GIN',
                 'iso' => 'GN',
@@ -651,6 +665,13 @@ class CountryList
                 'name' => 'Heard Island and Mcdonald Islands',
                 'numcode' => 0,
                 'flag' => 'Australia-Flag.png',
+            ],
+            'HERM' => [
+                'id' => 'HERM',
+                'iso' => 'HERM',
+                'name' => 'Herm',
+                'numcode' => 991,
+                'flag' => 'United-Kingdom-Flag.png',
             ],
             'VA' => [
                 'id' => 'VAT',
@@ -749,6 +770,20 @@ class CountryList
                 'name' => 'Japan',
                 'numcode' => 392,
                 'flag' => 'Japan-Flag.png',
+            ],
+            'JERS' => [
+                'id' => 'JERS',
+                'iso' => 'JERS',
+                'name' => 'Jersey',
+                'numcode' => 995,
+                'flag' => 'Jersey-Flag.png',
+            ],
+            'JETH' => [
+                'id' => 'JETH',
+                'iso' => 'JETH',
+                'name' => 'Jethou',
+                'numcode' => 990,
+                'flag' => 'United-Kingdom-Flag.png',
             ],
             'JO' => [
                 'id' => 'JOR',
@@ -1302,6 +1337,13 @@ class CountryList
                 'name' => 'Sao Tome and Principe',
                 'numcode' => 678,
                 'flag' => 'Sao-Tome-and-Principe-Flag.png',
+            ],
+            'SARK' => [
+                'id' => 'SARK',
+                'iso' => 'SARK',
+                'name' => 'Sark',
+                'numcode' => 992,
+                'flag' => 'United-Kingdom-Flag.png',
             ],
             'SA' => [
                 'id' => 'SAU',
